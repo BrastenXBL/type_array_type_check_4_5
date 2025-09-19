@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="MechanicSubRes1" load_steps=2 format=3 uid="uid://br5in53f8hj3t"]
+
+[ext_resource type="Script" uid="uid://cpwll2v03p5lp" path="res://issues/type_array_type_check_4_5/mechanic_sub_resource_1.gd" id="1_rxsdn"]
+
+[resource]
+script = ExtResource("1_rxsdn")
+metadata/_custom_type_script = "uid://cpwll2v03p5lp"

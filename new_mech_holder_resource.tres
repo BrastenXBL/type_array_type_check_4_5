@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MechanicHolder" load_steps=4 format=3 uid="uid://dnkt2nrsvf13x"]
+
+[ext_resource type="Script" uid="uid://e1vk5poh81oy" path="res://issues/type_array_type_check_4_5/mechanic_resourse.tres.gd" id="1_uj7d5"]
+[ext_resource type="Script" uid="uid://clm3sjyfexeaf" path="res://issues/type_array_type_check_4_5/mechanic_holder_resource.gd" id="2_siw1y"]
+[ext_resource type="Resource" uid="uid://br5in53f8hj3t" path="res://issues/type_array_type_check_4_5/new_sub_mech_1_resource.tres" id="2_whrgi"]
+
+[resource]
+script = ExtResource("2_siw1y")
+card_mechanics = Array[ExtResource("1_uj7d5")]([ExtResource("2_whrgi")])
+metadata/_custom_type_script = "uid://clm3sjyfexeaf"
